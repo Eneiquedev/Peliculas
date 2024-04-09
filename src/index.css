@@ -1,0 +1,18 @@
+@import 'https://fonts.googleapis.com/css2?family=Iceland&display=swap';
+
+
+@import 'https://fonts.googleapis.com/css2?family=Expletus+Sans:ital,wght@0,400..700;1,400..700&display=swap';
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Iceland', sans-serif;
+  font-family: "Expletus Sans", sans-serif;
+}
+
+body {
+  background: #111;
+  color: white;
+}
