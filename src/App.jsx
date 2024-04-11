@@ -1,6 +1,6 @@
 import { useState } from "react";
 import './App.css'
-import MyRoutes from "./routers/routers";
+import {MyRoutes} from "./routers/routers"
 
 export function App() {
   const [count, setCount] = useState(0);
@@ -14,5 +14,3 @@ export function App() {
     </div>
   );
 }
-
-

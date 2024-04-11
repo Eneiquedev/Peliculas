@@ -1,8 +1,8 @@
-import { ContexMovieCard } from "../components/ContextMovieCard"
+import { ContextMovieCard } from "../components/ContextMovieCard"
 export function LandingPage() {
     return (
         <div>
-            <ContexMovieCard/> 
+            <ContextMovieCard/> 
         </div>
     )
 }
